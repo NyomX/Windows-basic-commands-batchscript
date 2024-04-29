@@ -1,5 +1,5 @@
-# Name : BALAJI  S
-# Reg no : 212223040024
+# Name : Sandeep V
+# Reg no : 212223040179
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
